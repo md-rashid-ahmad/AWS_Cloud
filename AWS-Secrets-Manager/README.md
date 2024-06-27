@@ -71,3 +71,5 @@ Consider a web application that needs to connect to a database. Without Secrets 
 
 # Summary
 AWS Secrets Manager is a robust service designed to help you manage secrets securely and efficiently. By removing hard-coded credentials from your source code and replacing them with dynamic retrieval mechanisms, you enhance your application's security and simplify secret management. This service is essential for maintaining a strong security posture and ensuring that sensitive information is handled properly throughout its lifecycle.
+
+
